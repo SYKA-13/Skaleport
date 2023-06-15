@@ -62,10 +62,10 @@ const Header = () =>  (
   </li>        
 </Div2>
       <Div3>
-      <SocialIcons href="https://github.com/SYKA-13">
+      <SocialIcons href="/">
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://www.linkedin.com/in/syed-abdul-kalam-2094aa1b6/">
+      <SocialIcons href="/">
         <AiFillLinkedin size="3rem" style={{ fill: '#0A66C2' }} />
       </SocialIcons>
       <SocialIcons href="https://www.instagram.com/syedkalam13/">

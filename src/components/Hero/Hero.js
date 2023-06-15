@@ -29,7 +29,7 @@ const Hero = (props) => (
          
         </SectionTitle>
         <SectionText>
-      Hey there! It's Kalam here.I am highly proficient in utilizing various programming languages and frameworks to construct fully responsive websites.I have extensive familiarity with designing cloud-based solutions.
+      Hey there! It's Kalam here.I am highly proficient in utilizing various programming languages and frameworks to construct fully responsive websites.I have extensive familiarity with designing cloud-based solutions.Well this is not it,I completed internships and acitvely pursued continuous learning by enrolling in courses which have equipped me with a diverse skill set.
 
 
 
