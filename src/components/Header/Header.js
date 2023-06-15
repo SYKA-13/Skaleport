@@ -9,7 +9,7 @@ const Header = () =>  (
   <Container>  <Div1>
   <Link href="/">
     <a style={{ display: 'flex', color: 'white' }}>
-      <FaUser size="2rem" style={{marginRight:5}}/>
+      {/* <FaUser size="2rem" style={{marginRight:5}}/> */}
       <span style={{
         fontFamily: 'Roboto, serif',
         fontSize: '20px',
