@@ -7,11 +7,13 @@ export default {
   },
   // Colors for layout
   colors: {
-    primary1: "hsl(210, 50%, 98%)", // Light Grayish Blue
-    background1: "#0F1624",
-    accent1: "hsl(45, 100%, 50%)", // Orange
-    button: "hsl(300, 100%, 50%)", // Purple
-    background2: "hsl(180, 15%, 10%)", // Dark Gray
+  primary1: "radial-gradient(circle, #F4F4F4 10%, #EDEDED 80%)", // Light Gray with Radial Gradient
+background1: "radial-gradient(circle, #242424 10%, #1E1E1E 80%)" , // Dark Gray with Radial Gradient
+accent1: "#007BFF", // Blue
+button: "#6C757D", // Gray
+background2: "#FFFFFF", // White
+
+
   },
   
   // Breakpoints for responsive design

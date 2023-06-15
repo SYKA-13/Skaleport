@@ -207,7 +207,7 @@ export const ButtonFront = styled.button`
   background: ${({ alt }) =>
     alt
       ? 'linear-gradient(270deg, #ff4f70 0%, #ff4f70 100%)' /* Shady Pink */
-      : 'linear-gradient(270deg, #eae632 0%, #59b953 100%)' /* Light Yellow to Green Gradient */};
+      :  'radial-gradient(circle, #00E2FF, #0067FF)' };
   opacity: ${({ disabled }) => (disabled ? '.5' : '1')};
   transition: 0.4s ease;
   font-size: ${({ alt }) => (alt ? '20px' : '24px')};

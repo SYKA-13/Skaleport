@@ -14,7 +14,18 @@ const Hero = (props) => (
         <SectionTitle main center >
         <CircularImage>
       <Image src="./images/kalam1.jpg" alt="Your Image" />
-    </CircularImage> Syed Abdul Kalam 
+    </CircularImage> <span
+    style={{
+      background: 'radial-gradient(circle, #ffffff, #f4f4f4)',
+      backgroundSize: '200% 200%',
+      animation: 'shining-gradient 3s linear infinite',
+      WebkitBackgroundClip: 'text',
+      color: 'transparent',
+      textShadow: '0 0 5px rgba(255, 255, 255, 0.8)',
+    }}
+  >
+    Syed Abdul Kalam
+  </span> 
          
         </SectionTitle>
         <SectionText>
